@@ -1,0 +1,8 @@
+{
+  "name": "Visual Agenda Builder",
+  "description": "A classroom tool for teachers to create and present visual activity sequences for their students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
